@@ -1,4 +1,4 @@
-<p align="left">Bonjour! I am Olivier (A.K.A SputnikTETO). I'm currently 16 and playing around in C++ :3. <br>[@YuriLover911 on Discord]</p>
+<p align="left">Bonjour! I am SPUTNIK (A.K.A SputnikTETO). I'm currently 16 and playing around in C++ :3. <br>[@YuriLover911 on Discord]</p>
 
 ###
 
